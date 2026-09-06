@@ -1,12 +1,84 @@
-<h1 align="center">Hi 👋, I'm Iyan</h1>
-<h3 align="center">A passionate frontend developer from Indinesia</h3>
+<div align="center">👋 Hi, I'm Iyan
 
-- ⚡ Fun fact **aku hanya bocah SMP kelas 8 yang tertarik dengan dunia ngoding atau IT**
+"Frontend Developer" · "Builder" · "IT Enthusiast"
 
-<h3 align="left">Connect with me:</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Python+%7C+JavaScript+%7C+PHP;Linux+%26+Cybersecurity+Enthusiast;Always+Learning+Something+New" /><br><img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=58A6FF&style=for-the-badge" /></div>---
+
+🧑‍💻 About Me
+
+name: Iyan
+location: Indonesia
+role: Student & Developer
+currently_learning:
+  - Web Development
+  - Linux
+  - Python
+  - Cybersecurity
+  - Backend Development
+
+interests:
+  - Building useful tools
+  - Open Source
+  - Linux
+  - Programming
+  - Technology
+
+«⚡ Fun fact: Aku masih bocah SMP kelas 8 yang suka ngulik coding dan dunia IT.»
+
+---
+
+🚀 Tech Stack
+
+Languages
+
 <p align="left">
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,php" />
+</p>Backend & Database
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </
-p>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,mysql,postgresql" />
+</p>Tools & Environment
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,bash" />
+</p>---
+
+📊 GitHub Stats
+
+<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" /><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" /></div>---
+
+<div align="center">Watch the snake eat my contributions!
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" /></div>«💡 Untuk membuat Snake Game ini bekerja, perlu GitHub Action yang otomatis menghasilkan animasi dari contribution graph.»
+
+---
+
+🎯 My Goals
+
+- [x] Start learning programming
+- [x] Build my own projects
+- [x] Learn Linux & CLI
+- [ ] Build bigger web applications
+- [ ] Create useful open-source tools
+- [ ] Learn more about system development
+- [ ] Contribute to open-source projects
+
+---
+
+📈 Contribution
+
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true" /></div>---
+
+🔗 Connect With Me
+
+<div align="center"><a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a><a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a></div>---
+
+<div align="center">💻 Code. Build. Learn. Repeat.
+
+"Made with curiosity by Iyan"
+
+</div>
