@@ -10,7 +10,7 @@
 
 ## Tentang Saya
 
-Halo, saga Iyan. Tertarik dengan dunia coding dan IT, terutama di bidang frontend development. Suka belajar hal baru dan eksplor teknologi.
+Halo, saya Iyan. Tertarik dengan dunia coding dan IT, terutama di bidang frontend development. Suka belajar hal baru dan eksplor teknologi.
 
 ## Bidang yang Dikuasai
 
