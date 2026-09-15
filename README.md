@@ -4,7 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Python+%7C+JavaScript+%7C+PHP;Linux+%26+Cybersecurity+Enthusiast;Always+Learning+Something+New" /><br><img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=58A6FF&style=for-the-badge" /></div>---
 
-interests:
 <h1 align="center">Hi 👋, I'm Iyan</h1>
 <h3 align="center">A passionate frontend developer from Indinesia</h3>
 
